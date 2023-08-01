@@ -1,1 +1,1 @@
-First git excercise
+First git exercise.
